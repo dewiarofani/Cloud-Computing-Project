@@ -1,0 +1,64 @@
+{
+    "agama": [
+        {
+            "Kecamatan": "Laweyan",
+            "Islam" : 87301,
+            "Protestan" : 9177,
+            "Katolik" : 5557,
+            "Hindu" : 101,
+            "Budha" : 143,
+            "Lainnya" : 9
+        },
+
+        {
+            "Kecamatan": "Serengan",
+            "Islam" : 41515,
+            "Protestan" : 8671,
+            "Katolik" : 4072,
+            "Hindu" : 15,
+            "Budha" : 227,
+            "Lainnya" : 13
+        },
+
+        {
+            "Kecamatan": "Pasar Kliwon",
+            "Islam" : 76378,
+            "Protestan" : 5709,
+            "Katolik" : 4545,
+            "Hindu" : 15,
+            "Budha" : 159,
+            "Lainnya" : 6
+        },
+
+        {
+            "Kecamatan": "Jebres",
+            "Islam" : 103858,
+            "Protestan" : 27944,
+            "Katolik" : 14285,
+            "Hindu" : 100,
+            "Budha" : 523,
+            "Lainnya" : 92
+        },
+
+        {
+            "Kecamatan": "Banjarsari",
+            "Islam" : 141340,
+            "Protestan" : 28318,
+            "Katolik" : 12032,
+            "Hindu" : 147,
+            "Budha" : 277,
+            "Lainnya" : 31
+        },
+
+        {
+            "Kecamatan": "Kota Surakarta",
+            "Islam" : 450392,
+            "Protestan" : 79819,
+            "Katolik" : 40491,
+            "Hindu" : 378,
+            "Budha" : 1329,
+            "Lainnya" : 151
+        }
+        
+    ]
+}

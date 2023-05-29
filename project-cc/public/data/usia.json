@@ -1,0 +1,116 @@
+{
+    "usia": [
+        {
+            "Kelompok Usia": "0-4",
+            "Laki-Laki": 17758,
+            "Perempuan": 17107,
+            "Jumlah": 34865
+        },
+
+        {
+            "Kelompok Usia": "5-9",
+            "Laki-Laki": 18280,
+            "Perempuan": 17884,
+            "Jumlah": 36164
+        },
+
+        {
+            "Kelompok Usia": "10-14",
+            "Laki-Laki": 20187,
+            "Perempuan": 19149,
+            "Jumlah": 39336
+        },
+
+        {
+            "Kelompok Usia": "15-19",
+            "Laki-Laki": 21200,
+            "Perempuan": 20516,
+            "Jumlah": 41716
+        },
+
+        {
+            "Kelompok Usia": "20-24",
+            "Laki-Laki": 20638,
+            "Perempuan": 20444,
+            "Jumlah": 41082
+        },
+
+        {
+            "Kelompok Usia": "25-29",
+            "Laki-Laki": 19983,
+            "Perempuan": 19590,
+            "Jumlah": 39573
+        },
+
+        {
+            "Kelompok Usia": "30-34",
+            "Laki-Laki": 19246,
+            "Perempuan": 18803,
+            "Jumlah": 38049
+        },
+
+        {
+            "Kelompok Usia": "35-39",
+            "Laki-Laki": 19913,
+            "Perempuan": 19865,
+            "Jumlah": 39778
+        },
+
+        {
+            "Kelompok Usia": "40-44",
+            "Laki-Laki": 20038,
+            "Perempuan": 20383,
+            "Jumlah": 40421
+        },
+
+        {
+            "Kelompok Usia": "45-49",
+            "Laki-Laki": 18279,
+            "Perempuan": 18958,
+            "Jumlah": 37255
+        },
+
+        {
+            "Kelompok Usia": "50-54",
+            "Laki-Laki": 16818,
+            "Perempuan": 18118,
+            "Jumlah": 34936
+        },
+
+        {
+            "Kelompok Usia": "55-59",
+            "Laki-Laki": 14282,
+            "Perempuan": 16189,
+            "Jumlah": 30471
+        },
+
+        {
+            "Kelompok Usia": "60-64",
+            "Laki-Laki": 11909,
+            "Perempuan": 13749,
+            "Jumlah": 25658
+        },
+
+        {
+            "Kelompok Usia": "65-69",
+            "Laki-Laki": 9065,
+            "Perempuan": 10993,
+            "Jumlah": 20058
+        },
+
+        {
+            "Kelompok Usia": "70-74",
+            "Laki-Laki": 5015,
+            "Perempuan": 6176,
+            "Jumlah": 11191
+        },
+
+        {
+            "Kelompok Usia": "75+",
+            "Laki-Laki": 4414,
+            "Perempuan": 7397,
+            "Jumlah": 11811
+        }
+
+    ]
+}
